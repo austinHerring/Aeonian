@@ -1,4 +1,4 @@
-package whatizthis.aeonian;
+package com.whatizthis.aeonian.resources;
 
 /**
  * Created by austin on 6/1/17.
@@ -20,7 +20,6 @@ public class Specs {
     public static int PROJECTILE_OFF_BOTTOM;
 
     public static int ENEMY_RADIUS;
-    public static int ENEMY_SPEED = 20;
     public static int ENEMY_OFF_TOP;
     public static int ENEMY_OFF_LEFT;
     public static int ENEMY_OFF_RIGHT;
